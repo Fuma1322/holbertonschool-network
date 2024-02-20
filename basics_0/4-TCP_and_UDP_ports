@@ -1,3 +1,2 @@
 #!/usr/bin/env bash
 # This script displays listening ports
-netstat -an -p tcp
